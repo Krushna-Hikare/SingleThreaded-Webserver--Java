@@ -1,5 +1,3 @@
-readme
-
 # Java Single-Threaded Server-Client Model
 
 This project demonstrates a simple single-threaded server-client model implemented in Java. The server listens for a single client connection, exchanges a message, and then closes the connection. This is a basic example suitable for learning about socket programming and inter-process communication in Java.
